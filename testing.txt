@@ -6,4 +6,4 @@ C:\Users\Alumno\Desktop\pruebita>echo
 C:\Users\Alumno\Desktop\pruebita>echo Hello world senati > testing.txt para crear archivo con contyenido
 
 C:\Users\Alumno\Desktop\pruebita>del testing.txt -----para borrar
-dir
+direccion
