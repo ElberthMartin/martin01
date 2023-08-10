@@ -32,7 +32,7 @@ Alvin Alexander
 
 2) The `git config --list` command
 Another way to show your Git username is with this git config command:
-
+******esto sirve para ver lo que iniciamos sesion****
 git config --list
 which returns this output:
 
